@@ -1,0 +1,19 @@
+.active {
+    color: rgb(33, 153, 228);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav>ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+section {
+    text-align: center;
+}
